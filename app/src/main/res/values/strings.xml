@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TIC_TAC_TOE</string>
+    <string name="blankspace">BlankSpace</string>
+    <string name="blankspace1">BlankSpace</string>
+    <string name="blankspace2">BlankSpace</string>
+    <string name="blankspace3">BlankSpace</string>
+    <string name="blankspace4">BlankSpace</string>
+    <string name="blankspace5">BlankSpace</string>
+    <string name="blankspace6">BlankSpace</string>
+    <string name="blankspace7">BlankSpace</string>
+    <string name="blankspace8">BlankSpace</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again</string>
+</resources>
